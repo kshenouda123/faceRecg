@@ -45,3 +45,4 @@ loops over the detected faces, compares them with the known face encodings using
 
 # Video Explanation 
 
+https://youtu.be/-GZOeK7RFSk
