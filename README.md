@@ -1,6 +1,6 @@
 # Face Recognition 
 
-training the Jetson Nano with individual face images to identify the faces in a group
+training the Jetson Nano with individual face images to identify the faces in a group. *The code for donald trump says The Donals on this pages code same with the output photos shown. However, on the code page, it says donald trump in the code because I edited it, however I did not change the output photos, thats why the name code page does not match the output*
 
 # Input 
 ![image](https://user-images.githubusercontent.com/129615197/232349660-b9f0c97d-2d31-45e1-a88a-3f72d996c48f.jpeg)
